@@ -18,3 +18,15 @@ Hi eveyone! I'm Jinju (she/her), originally from Korea - which part of Korea, No
 - 💬 Ask me about coffee chat.
 - 📫 How to reach me: jinju2828@gmail.com
 - ⚡ Fun fact: I'm a YouTuber with +2000 fans.
+
+<div>
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jinju2828&theme=highcontrast&date_format=j%20M%5B%20Y%5D&ring=0000FF&fire=0000FF&currStreakLabel=FFFFFF)](https://git.io/streak-stats) -->
+ <img height="180em" width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=jinju2828&theme=highcontrast&date_format=j%20M%5B%20Y%5D&ring=0000FF&fire=0000FF&currStreakLabel=FFFFFF"/>
+</div>
+<div>
+  <img height="180em"  width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jinju2828&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</div>
+<div>
+  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasconsaurus&layout=compact&langs_count=8&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) -->
+  <img width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jinju2828&layout=compact&langs_count=8&theme=algolia"/>
+</div>
