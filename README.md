@@ -19,6 +19,8 @@ Hi eveyone! I'm Jinju (she/her), originally from Korea - which part of Korea, No
 - 📫 How to reach me: jinju2828@gmail.com
 - ⚡ Fun fact: I'm a YouTuber with +2000 fans.
 
+### 📚 GitHub Stat
+
 <div>
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jinju2828&theme=highcontrast&date_format=j%20M%5B%20Y%5D&ring=0000FF&fire=0000FF&currStreakLabel=FFFFFF)](https://git.io/streak-stats) -->
  <img height="180em" width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=jinju2828&theme=highcontrast&date_format=j%20M%5B%20Y%5D&ring=0000FF&fire=0000FF&currStreakLabel=FFFFFF"/>
