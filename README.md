@@ -3,7 +3,7 @@
 Hi eveyone! I'm Jinju (she/her), originally from Korea - which part of Korea, North or South? The answer is West.
 <br />I'm located in SF bay area now.😊
 
-### 🧑🏻‍💻 Tech
+### 💻 Tech
 
 
 
