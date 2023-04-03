@@ -13,7 +13,7 @@ Hi eveyone! I'm Jinju (she/her), originally from Korea - which part of Korea, No
 
 ### 📝 ABOUT ME
 
-- 💎 I have combined two years of experience working as a full stack developer at several early stage startups, which were fast paced environments requiring competency in multiple different roles.
+- 💎 I have combined two years of experience working as a full stack developer at several early stage startups in Silicon Valley, which were fast paced environments requiring competency in multiple different roles.
 - 🌱 I'm looking for a full stack developer position.
 - ☕ Ask me about coffee chat.
 - 📫 How to reach me: jinju2828@gmail.com
