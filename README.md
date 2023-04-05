@@ -1,6 +1,6 @@
 ### 👋 WELCOME TO MY GITHUB
 
-Hi eveyone! I'm Jinju (she/her), originally from Korea - which part of Korea, North or South? The answer is West.
+Hi eveyone! I'm Jinju, originally from Korea - which part of Korea, North or South? The answer is West.
 <br />I'm located in the SF bay area now.😊
 
 ### 💻 TECH
