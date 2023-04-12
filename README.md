@@ -15,7 +15,6 @@ Hi eveyone! I'm Jinju, originally from Korea - which part of Korea, North or Sou
 
 - 💎 I have combined two years of experience working as a full stack developer at several early stage startups in Silicon Valley, which were fast paced environments requiring competency in multiple different roles.
 - ☕ Ask me about coffee chat.
-- 📫 How to reach me: jinju2828@gmail.com
 - ⚡ Fun fact: I'm a YouTuber with +2500 fans.
 
 ### 📚 GITHUB STAT
