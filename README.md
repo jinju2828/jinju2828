@@ -15,7 +15,7 @@ Hi eveyone! I'm Jinju, originally from Korea - which part of Korea, North or Sou
 ### 📝 ABOUT ME
 
 - 💎 I have combined three years of experience working as a full stack developer at several early stage startups in Silicon Valley, which were fast paced environments requiring competency in multiple different roles.
-- 👩🏻‍💻 I am currently working as a Software Egineer in the MLOps team.
+- 👩🏻‍💻 I am currently working as a Software Egineer in the MLOps - HiTL tooling team.
 - ☕ Ask me about coffee chat.
 - ⚡ Fun fact: I'm a YouTuber with +10k fans.
 
